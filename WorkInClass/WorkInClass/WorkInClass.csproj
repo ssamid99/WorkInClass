@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibrary1.Helper">
+      <HintPath>..\..\..\..\Desktop\ClassLibrary1.Helper.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

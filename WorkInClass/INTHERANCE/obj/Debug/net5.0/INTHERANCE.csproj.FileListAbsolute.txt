@@ -1,0 +1,16 @@
+C:\Users\samidms\source\repos\WorkInClass\INTHERANCE\bin\Debug\net5.0\INTHERANCE.exe
+C:\Users\samidms\source\repos\WorkInClass\INTHERANCE\bin\Debug\net5.0\INTHERANCE.deps.json
+C:\Users\samidms\source\repos\WorkInClass\INTHERANCE\bin\Debug\net5.0\INTHERANCE.runtimeconfig.json
+C:\Users\samidms\source\repos\WorkInClass\INTHERANCE\bin\Debug\net5.0\INTHERANCE.runtimeconfig.dev.json
+C:\Users\samidms\source\repos\WorkInClass\INTHERANCE\bin\Debug\net5.0\INTHERANCE.dll
+C:\Users\samidms\source\repos\WorkInClass\INTHERANCE\bin\Debug\net5.0\ref\INTHERANCE.dll
+C:\Users\samidms\source\repos\WorkInClass\INTHERANCE\bin\Debug\net5.0\INTHERANCE.pdb
+C:\Users\samidms\source\repos\WorkInClass\INTHERANCE\obj\Debug\net5.0\INTHERANCE.csproj.AssemblyReference.cache
+C:\Users\samidms\source\repos\WorkInClass\INTHERANCE\obj\Debug\net5.0\INTHERANCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samidms\source\repos\WorkInClass\INTHERANCE\obj\Debug\net5.0\INTHERANCE.AssemblyInfoInputs.cache
+C:\Users\samidms\source\repos\WorkInClass\INTHERANCE\obj\Debug\net5.0\INTHERANCE.AssemblyInfo.cs
+C:\Users\samidms\source\repos\WorkInClass\INTHERANCE\obj\Debug\net5.0\INTHERANCE.csproj.CoreCompileInputs.cache
+C:\Users\samidms\source\repos\WorkInClass\INTHERANCE\obj\Debug\net5.0\INTHERANCE.dll
+C:\Users\samidms\source\repos\WorkInClass\INTHERANCE\obj\Debug\net5.0\ref\INTHERANCE.dll
+C:\Users\samidms\source\repos\WorkInClass\INTHERANCE\obj\Debug\net5.0\INTHERANCE.pdb
+C:\Users\samidms\source\repos\WorkInClass\INTHERANCE\obj\Debug\net5.0\INTHERANCE.genruntimeconfig.cache
