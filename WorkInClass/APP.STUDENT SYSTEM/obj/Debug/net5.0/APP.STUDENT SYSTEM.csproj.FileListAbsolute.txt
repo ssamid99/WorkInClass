@@ -1,0 +1,16 @@
+C:\Users\samidms\source\repos\WorkInClass\APP.STUDENT SYSTEM\bin\Debug\net5.0\APP.STUDENT SYSTEM.exe
+C:\Users\samidms\source\repos\WorkInClass\APP.STUDENT SYSTEM\bin\Debug\net5.0\APP.STUDENT SYSTEM.deps.json
+C:\Users\samidms\source\repos\WorkInClass\APP.STUDENT SYSTEM\bin\Debug\net5.0\APP.STUDENT SYSTEM.runtimeconfig.json
+C:\Users\samidms\source\repos\WorkInClass\APP.STUDENT SYSTEM\bin\Debug\net5.0\APP.STUDENT SYSTEM.runtimeconfig.dev.json
+C:\Users\samidms\source\repos\WorkInClass\APP.STUDENT SYSTEM\bin\Debug\net5.0\APP.STUDENT SYSTEM.dll
+C:\Users\samidms\source\repos\WorkInClass\APP.STUDENT SYSTEM\bin\Debug\net5.0\ref\APP.STUDENT SYSTEM.dll
+C:\Users\samidms\source\repos\WorkInClass\APP.STUDENT SYSTEM\bin\Debug\net5.0\APP.STUDENT SYSTEM.pdb
+C:\Users\samidms\source\repos\WorkInClass\APP.STUDENT SYSTEM\obj\Debug\net5.0\APP.STUDENT SYSTEM.csproj.AssemblyReference.cache
+C:\Users\samidms\source\repos\WorkInClass\APP.STUDENT SYSTEM\obj\Debug\net5.0\APP.STUDENT SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samidms\source\repos\WorkInClass\APP.STUDENT SYSTEM\obj\Debug\net5.0\APP.STUDENT SYSTEM.AssemblyInfoInputs.cache
+C:\Users\samidms\source\repos\WorkInClass\APP.STUDENT SYSTEM\obj\Debug\net5.0\APP.STUDENT SYSTEM.AssemblyInfo.cs
+C:\Users\samidms\source\repos\WorkInClass\APP.STUDENT SYSTEM\obj\Debug\net5.0\APP.STUDENT SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\samidms\source\repos\WorkInClass\APP.STUDENT SYSTEM\obj\Debug\net5.0\APP.STUDENT SYSTEM.dll
+C:\Users\samidms\source\repos\WorkInClass\APP.STUDENT SYSTEM\obj\Debug\net5.0\ref\APP.STUDENT SYSTEM.dll
+C:\Users\samidms\source\repos\WorkInClass\APP.STUDENT SYSTEM\obj\Debug\net5.0\APP.STUDENT SYSTEM.pdb
+C:\Users\samidms\source\repos\WorkInClass\APP.STUDENT SYSTEM\obj\Debug\net5.0\APP.STUDENT SYSTEM.genruntimeconfig.cache
