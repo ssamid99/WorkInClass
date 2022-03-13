@@ -1,0 +1,16 @@
+C:\Users\samidms\source\repos\ConsoleApp.List.Solution\ConsoleApp.List\bin\Debug\net5.0\ConsoleApp.List.exe
+C:\Users\samidms\source\repos\ConsoleApp.List.Solution\ConsoleApp.List\bin\Debug\net5.0\ConsoleApp.List.deps.json
+C:\Users\samidms\source\repos\ConsoleApp.List.Solution\ConsoleApp.List\bin\Debug\net5.0\ConsoleApp.List.runtimeconfig.json
+C:\Users\samidms\source\repos\ConsoleApp.List.Solution\ConsoleApp.List\bin\Debug\net5.0\ConsoleApp.List.runtimeconfig.dev.json
+C:\Users\samidms\source\repos\ConsoleApp.List.Solution\ConsoleApp.List\bin\Debug\net5.0\ConsoleApp.List.dll
+C:\Users\samidms\source\repos\ConsoleApp.List.Solution\ConsoleApp.List\bin\Debug\net5.0\ref\ConsoleApp.List.dll
+C:\Users\samidms\source\repos\ConsoleApp.List.Solution\ConsoleApp.List\bin\Debug\net5.0\ConsoleApp.List.pdb
+C:\Users\samidms\source\repos\ConsoleApp.List.Solution\ConsoleApp.List\obj\Debug\net5.0\ConsoleApp.List.csproj.AssemblyReference.cache
+C:\Users\samidms\source\repos\ConsoleApp.List.Solution\ConsoleApp.List\obj\Debug\net5.0\ConsoleApp.List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samidms\source\repos\ConsoleApp.List.Solution\ConsoleApp.List\obj\Debug\net5.0\ConsoleApp.List.AssemblyInfoInputs.cache
+C:\Users\samidms\source\repos\ConsoleApp.List.Solution\ConsoleApp.List\obj\Debug\net5.0\ConsoleApp.List.AssemblyInfo.cs
+C:\Users\samidms\source\repos\ConsoleApp.List.Solution\ConsoleApp.List\obj\Debug\net5.0\ConsoleApp.List.csproj.CoreCompileInputs.cache
+C:\Users\samidms\source\repos\ConsoleApp.List.Solution\ConsoleApp.List\obj\Debug\net5.0\ConsoleApp.List.dll
+C:\Users\samidms\source\repos\ConsoleApp.List.Solution\ConsoleApp.List\obj\Debug\net5.0\ref\ConsoleApp.List.dll
+C:\Users\samidms\source\repos\ConsoleApp.List.Solution\ConsoleApp.List\obj\Debug\net5.0\ConsoleApp.List.pdb
+C:\Users\samidms\source\repos\ConsoleApp.List.Solution\ConsoleApp.List\obj\Debug\net5.0\ConsoleApp.List.genruntimeconfig.cache
